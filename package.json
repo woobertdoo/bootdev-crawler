@@ -1,0 +1,26 @@
+{
+  "name": "bootdev-crawler",
+  "version": "1.0.0",
+  "description": "bootdev webcrawler project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woobertdoo/bootdev-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woobertdoo/bootdev-crawler/issues"
+  },
+  "homepage": "https://github.com/woobertdoo/bootdev-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
